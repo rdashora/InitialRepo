@@ -1,2 +1,2 @@
 # InitialRepo
-This is the first repo created to familiarize with GitHub
+This is the first repo created to familiarize with GitHub Test-Repo
